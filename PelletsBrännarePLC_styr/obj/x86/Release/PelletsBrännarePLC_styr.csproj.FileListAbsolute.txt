@@ -1,0 +1,7 @@
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\bin\Release\PelletsBrännarePLC_styr.exe
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\bin\Release\PelletsBrännarePLC_styr.pdb
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Release\PelletsBrännarePLC_styr.MainForm.resources
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Release\PelletsBrännarePLC_styr.Properties.Resources.resources
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Release\PelletsBrännarePLC_styr.csproj.GenerateResource.Cache
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Release\PelletsBrännarePLC_styr.exe
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Release\PelletsBrännarePLC_styr.pdb

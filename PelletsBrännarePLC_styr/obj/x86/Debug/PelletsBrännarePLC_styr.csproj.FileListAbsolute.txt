@@ -1,0 +1,61 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.MainForm.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.pdb
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.exe
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.pdb
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.exe
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.pdb
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.MainForm.resources
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.Properties.Resources.resources
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csproj.GenerateResource.Cache
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csprojResolveAssemblyReference.cache
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.CustomFontDialog.resources
+A:\!!!JANNIK\!!!plc stuff\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.FontList.resources
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.exe
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.pdb
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.exe
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.pdb
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csprojResolveAssemblyReference.cache
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.CustomFontDialog.resources
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.FontList.resources
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.MainForm.resources
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.Properties.Resources.resources
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csproj.GenerateResource.Cache
+A:\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.ModbusPacketCreatorForm.resources
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.exe
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.pdb
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.exe
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.pdb
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csprojResolveAssemblyReference.cache
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.CustomFontDialog.resources
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.FontList.resources
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.MainForm.resources
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.ModbusPacketCreatorForm.resources
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.Properties.Resources.resources
+C:\_Projects\__PelletsBrännareStyrProgram\PelletsBrännarePLC_styr\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csproj.GenerateResource.Cache
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.exe
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.pdb
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csprojResolveAssemblyReference.cache
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.CustomFontDialog.resources
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.FontList.resources
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.MainForm.resources
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.ModbusPacketCreatorForm.resources
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.Properties.Resources.resources
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csproj.GenerateResource.Cache
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.exe
+C:\_Projects\___Värmesystem_Hemautomation\__PelletsBrännareStyrProgram\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.pdb
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.exe
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\bin\Debug\PelletsBrännarePLC_styr.pdb
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.CustomFontDialog.resources
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.FontList.resources
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.MainForm.resources
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.ModbusPacketCreatorForm.resources
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.Properties.Resources.resources
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csproj.GenerateResource.Cache
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.exe
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.pdb
+C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csprojResolveAssemblyReference.cache
