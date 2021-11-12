@@ -59,3 +59,13 @@ C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\
 C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.exe
 C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.pdb
 C:\_Projects\_Software\PLC Remote Control - PC\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csprojResolveAssemblyReference.cache
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csprojAssemblyReference.cache
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.CustomFontDialog.resources
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\CustomFontDialogNamespace.FontList.resources
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.MainForm.resources
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.ModbusPacketCreatorForm.resources
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.Properties.Resources.resources
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csproj.GenerateResource.cache
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.csproj.CoreCompileInputs.cache
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.exe
+G:\_githubClones\PLC-remote-control\PelletsBrännarePLC_styr\obj\x86\Debug\PelletsBrännarePLC_styr.pdb

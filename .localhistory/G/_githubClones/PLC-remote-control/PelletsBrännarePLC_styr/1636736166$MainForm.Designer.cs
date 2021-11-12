@@ -146,7 +146,7 @@
             this.rtxtLog.Font = new System.Drawing.Font("Courier New", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rtxtLog.Location = new System.Drawing.Point(3, 30);
             this.rtxtLog.Name = "rtxtLog";
-            this.rtxtLog.Size = new System.Drawing.Size(1002, 102);
+            this.rtxtLog.Size = new System.Drawing.Size(1002, 263);
             this.rtxtLog.TabIndex = 2;
             this.rtxtLog.Text = "";
             // 
@@ -834,7 +834,7 @@
             this.panel1.Controls.Add(this.rtxtLog);
             this.panel1.Location = new System.Drawing.Point(0, 424);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1008, 135);
+            this.panel1.Size = new System.Drawing.Size(1008, 296);
             this.panel1.TabIndex = 19;
             // 
             // chkBoxShowModbusReceiveInAscii
@@ -990,7 +990,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1010, 564);
+            this.ClientSize = new System.Drawing.Size(1010, 725);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.grpBoxM3remote);
             this.Controls.Add(this.grpBoxTcpClientSend);

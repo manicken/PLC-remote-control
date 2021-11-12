@@ -45,11 +45,7 @@
             this.btnM3get_SLOUT = new System.Windows.Forms.Button();
             this.btnModbusRawPacketSender = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.label11 = new System.Windows.Forms.Label();
-            this.chkLogDontEmptyScreen = new System.Windows.Forms.CheckBox();
-            this.rtxtLCD = new System.Windows.Forms.RichTextBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label10 = new System.Windows.Forms.Label();
             this.btnPLC_btnESC = new System.Windows.Forms.Button();
             this.imgLstM3 = new System.Windows.Forms.ImageList(this.components);
             this.btnPLC_btnA = new System.Windows.Forms.Button();
@@ -100,6 +96,10 @@
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.txtTcpServerToSend = new System.Windows.Forms.TextBox();
             this.btnTcpServerSend = new System.Windows.Forms.Button();
+            this.label10 = new System.Windows.Forms.Label();
+            this.rtxtLCD = new System.Windows.Forms.RichTextBox();
+            this.chkLogDontEmptyScreen = new System.Windows.Forms.CheckBox();
+            this.label11 = new System.Windows.Forms.Label();
             this.grpBoxM3remote.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -146,7 +146,7 @@
             this.rtxtLog.Font = new System.Drawing.Font("Courier New", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rtxtLog.Location = new System.Drawing.Point(3, 30);
             this.rtxtLog.Name = "rtxtLog";
-            this.rtxtLog.Size = new System.Drawing.Size(1002, 102);
+            this.rtxtLog.Size = new System.Drawing.Size(1002, 263);
             this.rtxtLog.TabIndex = 2;
             this.rtxtLog.Text = "";
             // 
@@ -294,37 +294,6 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Front Panel:";
             // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(328, 3);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(48, 13);
-            this.label11.TabIndex = 36;
-            this.label11.Text = "x 100mS";
-            // 
-            // chkLogDontEmptyScreen
-            // 
-            this.chkLogDontEmptyScreen.AutoSize = true;
-            this.chkLogDontEmptyScreen.Location = new System.Drawing.Point(419, -1);
-            this.chkLogDontEmptyScreen.Name = "chkLogDontEmptyScreen";
-            this.chkLogDontEmptyScreen.Size = new System.Drawing.Size(169, 17);
-            this.chkLogDontEmptyScreen.TabIndex = 35;
-            this.chkLogDontEmptyScreen.Text = "show empty screen data in log";
-            this.chkLogDontEmptyScreen.UseVisualStyleBackColor = true;
-            this.chkLogDontEmptyScreen.CheckedChanged += new System.EventHandler(this.chkLogDontEmptyScreen_CheckedChanged);
-            // 
-            // rtxtLCD
-            // 
-            this.rtxtLCD.BackColor = System.Drawing.Color.GreenYellow;
-            this.rtxtLCD.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rtxtLCD.Location = new System.Drawing.Point(363, 37);
-            this.rtxtLCD.Name = "rtxtLCD";
-            this.rtxtLCD.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
-            this.rtxtLCD.Size = new System.Drawing.Size(225, 96);
-            this.rtxtLCD.TabIndex = 34;
-            this.rtxtLCD.Text = "123456789012345678\nABCDEFGHIJKLMNOPQR\nSTUVWXYZÅÄÖ!\"#¤\n{[]}\\";
-            // 
             // panel2
             // 
             this.panel2.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
@@ -348,16 +317,6 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(585, 58);
             this.panel2.TabIndex = 33;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(261, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(27, 16);
-            this.label10.TabIndex = 42;
-            this.label10.Text = "OK";
             // 
             // btnPLC_btnESC
             // 
@@ -834,7 +793,7 @@
             this.panel1.Controls.Add(this.rtxtLog);
             this.panel1.Location = new System.Drawing.Point(0, 424);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1008, 135);
+            this.panel1.Size = new System.Drawing.Size(1008, 296);
             this.panel1.TabIndex = 19;
             // 
             // chkBoxShowModbusReceiveInAscii
@@ -986,11 +945,52 @@
             this.btnTcpServerSend.UseVisualStyleBackColor = true;
             this.btnTcpServerSend.Click += new System.EventHandler(this.BtnTcpServerSendClick);
             // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(261, 0);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(27, 16);
+            this.label10.TabIndex = 42;
+            this.label10.Text = "OK";
+            // 
+            // rtxtLCD
+            // 
+            this.rtxtLCD.BackColor = System.Drawing.Color.GreenYellow;
+            this.rtxtLCD.Font = new System.Drawing.Font("M3normalFont", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rtxtLCD.Location = new System.Drawing.Point(363, 37);
+            this.rtxtLCD.Name = "rtxtLCD";
+            this.rtxtLCD.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.None;
+            this.rtxtLCD.Size = new System.Drawing.Size(225, 96);
+            this.rtxtLCD.TabIndex = 34;
+            this.rtxtLCD.Text = "123456789012345678\nABCDEFGHIJKLMNOPQR\nSTUVWXYZÅÄÖ!\"#¤\n{[]}\\";
+            // 
+            // chkLogDontEmptyScreen
+            // 
+            this.chkLogDontEmptyScreen.AutoSize = true;
+            this.chkLogDontEmptyScreen.Location = new System.Drawing.Point(419, -1);
+            this.chkLogDontEmptyScreen.Name = "chkLogDontEmptyScreen";
+            this.chkLogDontEmptyScreen.Size = new System.Drawing.Size(169, 17);
+            this.chkLogDontEmptyScreen.TabIndex = 35;
+            this.chkLogDontEmptyScreen.Text = "show empty screen data in log";
+            this.chkLogDontEmptyScreen.UseVisualStyleBackColor = true;
+            this.chkLogDontEmptyScreen.CheckedChanged += new System.EventHandler(this.chkLogDontEmptyScreen_CheckedChanged);
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(328, 3);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(48, 13);
+            this.label11.TabIndex = 36;
+            this.label11.Text = "x 100mS";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1010, 564);
+            this.ClientSize = new System.Drawing.Size(1010, 725);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.grpBoxM3remote);
             this.Controls.Add(this.grpBoxTcpClientSend);
@@ -999,7 +999,7 @@
             this.Controls.Add(this.groupBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "MainForm";
-            this.Text = "PelletsBrännarePLC styr";
+            this.Text = "PelletsBränarePLC styr";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.Shown += new System.EventHandler(this.MainForm_Shown);
             this.grpBoxM3remote.ResumeLayout(false);
